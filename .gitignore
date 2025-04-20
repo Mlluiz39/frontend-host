@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+.pnpm/
+
+# production
+dist/
+build/
+
+# local env files
+.env
+.env.*.local
+
+# misc
+.DS_Store
+.vite/
+*.log
+*.zip
+*.gz
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
